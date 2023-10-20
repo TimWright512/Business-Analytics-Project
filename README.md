@@ -1,7 +1,7 @@
 # Business-Analytics-Project
 Sprint 9 Project
 Project description
-You've done beautifully in the Practicum course, and you've been offered an internship in the analytical department at Yandex.Afisha. Your first task is to help optimize marketing expenses. 
+You've been offered an internship in the analytical department at Yandex.Afisha. Your first task is to help optimize marketing expenses. 
 You have:
 Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
 Dump file with all orders for the period
